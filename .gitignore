@@ -16,3 +16,6 @@ target
 
 # Idea
 .idea
+*.iml
+
+*.~
